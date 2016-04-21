@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+    It allowed me to look at a piece of code that was previously working, thus 
+    I could quickly spot the incorrect change.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It allows me to quickly undo changes to a file by reverting to an older 
+    version and it allows me to save all the different ideas that I used to
+    write a program.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	Manually creating commits allows you to save progress on completion of small
+	tasks in your code, but sometimes you might forget to commit or wait too
+	long to commmit. In contrast, versions that are automatically saved might 
+	not have rhyme or reason to them, but it does guarantee that the progress of 
+	a file is saved.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	The files of code associated to a project can be highly interconnected, so a 
+	change made to one file can force a change to be made in another file. In 
+	this situation, one clearly wants updated versions of all files involved to
+	be saved. In Google docs, it is most likely assumed that the types of files
+	one is working with are not interconnected.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Git log lists the commits of a repository and includes basic information 
+	about each commit. Git diff displays the differences between two different
+	commits of your choosing, in particular, the lines that were added and
+	deleted from one commit to the other.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	I know that I don't need to worry about messing up my program because I can
+	just revert to an older version to undo that mistake.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Using it while enrolled in the Front-End Web Developer nanodegree program.
