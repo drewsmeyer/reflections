@@ -10,7 +10,8 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
 	The staging area comprises files that will be made into a single commit.
-	These can be just some of the files that are in the directory. Also, the
-	repository is the collection of all the commits that are formed. The staging
-	is useful because it allows you to pick and choose exactly which files you
-	want to track as a single unit, not just all the files in a given directory.
+	These files can be just some of the files that are in the directory. Also, 
+	the repository is the collection of all the commits that are formed. The 
+	staging area is useful because it allows you to pick and choose exactly 
+	which files you want to track as a single unit, not just all the files in a 
+	given directory.
