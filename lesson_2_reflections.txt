@@ -22,3 +22,12 @@ logical change?
 	than one logical change, I can add just the files corresponding to the one
 	logical change, if there is no overlap, and commit those files. Next I can
 	repeat this process for the other logical changes.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+	
+	Branches are helpful when you are writing code for a new feature of a 
+	program, but when you are still unsure if it will be added or you currently
+	don't want to update the official version. Branches allow you to create an
+	unofficial version of the code to which commits can be added, but allows you
+	to keep the official version of the code unchanged.
