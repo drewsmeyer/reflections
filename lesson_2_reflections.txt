@@ -31,3 +31,8 @@ organized? How would branches help?
 	don't want to update the official version. Branches allow you to create an
 	unofficial version of the code to which commits can be added, but allows you
 	to keep the official version of the code unchanged.
+
+How do the diagrams help you visualize the branch structure?
+
+	The diagrams make it easy to see both the order in which commits are created
+	and the position of all the branches with respect to each other.
