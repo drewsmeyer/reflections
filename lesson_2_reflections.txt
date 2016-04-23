@@ -36,3 +36,13 @@ How do the diagrams help you visualize the branch structure?
 
 	The diagrams make it easy to see both the order in which commits are created
 	and the position of all the branches with respect to each other.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	The result of merging two branches is the collective of updates of both
+	branches, i.e. it is the outcome of starting with the original commit where 
+	the two branches diverged and doing the following: deleting the lines that
+	either of the branches deleted and adding the lines that either of the 
+	branches added. Thus its representation in the diagram is justified since it
+	is simultaneously and update of both branches.
