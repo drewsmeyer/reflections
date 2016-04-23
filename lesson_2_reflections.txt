@@ -46,3 +46,13 @@ the diagram the way we do?
 	either of the branches deleted and adding the lines that either of the 
 	branches added. Thus its representation in the diagram is justified since it
 	is simultaneously and update of both branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges 
+manually?
+
+	Git's automatic merging saves a lot of time, especially in the case where
+	there is a ton of code and many updates to that code in all of the branches. 
+	In this case, manually merging would be horrid. Also, automatically merging 
+	would have a con if Git did not automatically detect merge conflicts. 
+	However it does, so being able to merge a small piece of code manually to 
+	resolve these situations is invaluable.
