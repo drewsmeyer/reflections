@@ -36,3 +36,12 @@ stored locally?
 	Having a local copy of a remote is valuable because it allows you to work 
 	with a project that is stored in a remote location when you don't have 
 	access the internet.
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+	The only way that I would know how to collaborate in this case would be 
+	to send files via email or something like Google docs. This process is 
+	simple. On the other hand, collaborating using Git and/or GitHub seems to 
+	have a learning curve, but appears to be more efficient once you learn how 
+	to use the system.
